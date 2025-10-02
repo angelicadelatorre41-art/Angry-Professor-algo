@@ -1,1 +1,1 @@
-# Angry-Professor-algo
+# Angry-Professor-algo This program checks if a class is canceled based on student arrival times. It counts how many students arrive on time (≤ 0); if that number is less than the threshold k, the class is canceled and returns "YES", otherwise it continues and returns "NO".
